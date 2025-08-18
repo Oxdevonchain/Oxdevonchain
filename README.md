@@ -1,4 +1,4 @@
-# 🚀 HansHaze - Advanced Trading Bot
+# 👋️ Welcome to my GitHub profile
 
 
 <div align="center">
