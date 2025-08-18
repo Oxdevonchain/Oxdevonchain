@@ -1,9 +1,20 @@
 # 🚀 HansHaze - Advanced Trading Bot
 
-[![GitHub stars](https://img.shields.io/github/stars/hanshaze/solana-sniper-copy-mev-trading-bot?style=social)](https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot)
-[![GitHub forks](https://img.shields.io/github/forks/hanshaze/solana-sniper-copy-mev-trading-bot?style=social)](https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot)
-[![GitHub issues](https://img.shields.io/github/issues/hanshaze/solana-sniper-copy-mev-trading-bot)](https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/issues)
-[![GitHub license](https://img.shields.io/github/license/hanshaze/solana-sniper-copy-mev-trading-bot)](https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/blob/main/LICENSE)
+
+<div align="center">
+  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot">
+    <img src="https://img.shields.io/github/stars/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/fork">
+    <img src="https://img.shields.io/github/forks/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/issues">
+    <img src="https://img.shields.io/github/issues/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub Issues">
+  </a>
+  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub License">
+  </a>
+</div>
 
 > **Check out the [solana-sniper-copy-mev-trading-bot](https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot) repository for the latest updates and source code!**
 
@@ -108,23 +119,13 @@
 
 
 ## 🆘 Support
+If you have any questions about development or collaboration, I am open to anything. Feel free to contact me about any inquiries or ideas!😊
 
 - ✈️ **Telegram**: [https://t.me/hanshaze007](https://t.me/hanshaze007)
 
 ---
 
-## ⭐ If you find this project helpful, please star 🌟 and watch 👀 the repo!
+### ⭐ If you find these projects helpful, please star 🌟 and watch 👀 the repo!
 
-Your feedback and stars motivate further development. Thank you!
+#### Your feedback and stars motivate further development. Thank you!
 
-<div align="center">
-  <a href="https://github.com/hanshaze/hanshaze">
-    <img src="https://img.shields.io/github/stars/hanshaze/hanshaze?style=for-the-badge&logo=github" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/hanshaze/hanshaze/fork">
-    <img src="https://img.shields.io/github/forks/hanshaze/hanshaze?style=for-the-badge&logo=github" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/hanshaze/hanshaze/issues">
-    <img src="https://img.shields.io/github/issues/hanshaze/hanshaze?style=for-the-badge&logo=github" alt="GitHub Issues">
-  </a>
-</div>
