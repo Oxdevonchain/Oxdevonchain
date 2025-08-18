@@ -35,14 +35,16 @@
 
 ## 🛠️ Tech Stack
 
-### Blockchain & Web3
+### Blockchain, Web3 & CEX Integration
 <table align="center">
   <tr>
     <td align="center"><img src="assets/icons/solana.png" height="45" alt="Solana" /><br>Solana</td>
     <td align="center"><img src="assets/icons/ethereum.png" height="45" alt="Ethereum" /><br>Ethereum</td>
     <td align="center"><img src="assets/icons/bittensor.svg" width="45" height="45" alt="Bittensor" /><br>Bittensor</td>
-    <td align="center"><img src="assets/icons/polygon.png" width="45" height="45" alt="Polygon" /><br>Polygon</td>
-    <td align="center"><img src="assets/icons/binance.png" width="45" height="45" alt="Binance Smart Chain" /><br>BSC</td>
+    <td align="center"><img src="assets/icons/binance-usd-busd-logo.png" width="45" height="45" alt="Binance (CEX)" /><br>Binance (CEX)</td>
+    <td align="center"><img src="assets/icons/bitget-token-new-bgb-logo.png" width="45" height="45" alt="Bitget" /><br>Bitget</td>
+    <td align="center"><img src="assets/icons/MEXC Logo Mark_Blue.png" width="45" height="45" alt="MEXC" /><br>MEXC</td>
+    <td align="center"><img src="assets/icons/bybit-seeklogo.png" width="45" height="45" alt="Bybit" /><br>Bybit</td>
   </tr>
 </table>
 
