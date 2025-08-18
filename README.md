@@ -1,9 +1,9 @@
 # 🚀 HansHaze - Advanced Trading Bot
 
-[![GitHub stars](https://img.shields.io/github/stars/hanshaze/hanshaze?style=social)](https://github.com/hanshaze/hanshaze)
-[![GitHub forks](https://img.shields.io/github/forks/hanshaze/hanshaze?style=social)](https://github.com/hanshaze/hanshaze)
-[![GitHub issues](https://img.shields.io/github/issues/hanshaze/hanshaze)](https://github.com/hanshaze/hanshaze/issues)
-[![GitHub license](https://img.shields.io/github/license/hanshaze/hanshaze)](https://github.com/hanshaze/hanshaze/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/hanshaze/hanshaze?style=social)](https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot)
+[![GitHub forks](https://img.shields.io/github/forks/solana-sniper-copy-mev-trading-bot/hanshaze?style=social)](https://github.com/hanshaze/hanshaze)
+[![GitHub issues](https://img.shields.io/github/issues/solana-sniper-copy-mev-trading-bot/hanshaze)](https://github.com/hanshaze/hanshaze/issues)
+[![GitHub license](https://img.shields.io/github/license/hanshaze/solana-sniper-copy-mev-trading-bot)](https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/blob/main/LICENSE)
 
 > **Advanced cryptocurrency trading bot with AI-powered strategies and multi-chain support**
 
