@@ -121,7 +121,7 @@
 ## 🆘 Support
 If you have any questions about development or collaboration, I am open to anything. Feel free to contact me about any inquiries or ideas!😊
 
-- ✈️ **Telegram**: [https://t.me/hanshaze007](https://t.me/hanshaze007)
+- ✈️ **Telegram**: [https://t.me/Hans_haze](https://t.me/Hans_haze)
 
 ---
 
