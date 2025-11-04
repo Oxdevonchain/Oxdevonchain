@@ -121,7 +121,8 @@
 ## 🆘 Support
 If you have any questions about development or collaboration, I am open to anything. Feel free to contact me about any inquiries or ideas!😊
 
-- ✈️ **Telegram**: [https://t.me/solbotdeveloper](https://t.me/solbotdeveloper)
+- ✈️ **Telegram**
+- ✈️ **Whatsapp**: [+1 (623) 261-6744]
 
 ---
 
