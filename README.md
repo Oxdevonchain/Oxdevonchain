@@ -26,6 +26,8 @@
 
 #### By sharing the code, I invite others to build upon it, improve it, and perhaps even create something entirely new.
 
+🟢I typically respond within 2 hours and look forward to connecting with you.
+
 ### 🌟 Key Benefits
 
 - **Multi-Chain Support**: Trade across multiple blockchain networks
@@ -121,9 +123,9 @@
 ## 🆘 Support
 If you have any questions about development or collaboration, I am open to anything. Feel free to contact me about any inquiries or ideas!😊
 
-- ✈️ **Telegram**
-- ✈️ **Whatsapp**: [+1 (623) 261-6744]
-
+- ✈️ **Telegram** @Kat_logic  
+- ✈️ **Discord** cryptoking1106
+🟢I typically respond within 2 hours and look forward to connecting with you.
 ---
 
 ### ⭐ If you find these projects helpful, please star 🌟 and watch 👀 the repo!
