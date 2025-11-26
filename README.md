@@ -22,7 +22,7 @@
 
 ## 🎯 About
 
-#### As a Blockchain developer, I've open-sourced this project because I believe in the power of community and collaboration. Whether you're a developer wanting to learn more about trading bots, a trader looking to automate your strategies, or simply curious about crypto trading, I hope this project provides value.
+#### As a Fullstack developer, I've open-sourced this project because I believe in the power of community and collaboration. Whether you're a developer wanting to learn more about trading bots, a trader looking to automate your strategies, or simply curious about crypto trading, I hope this project provides value.
 
 #### By sharing the code, I invite others to build upon it, improve it, and perhaps even create something entirely new.
 
