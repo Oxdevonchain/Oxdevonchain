@@ -104,8 +104,7 @@
 ## 🆘 Support
 If you have any questions about development or collaboration, I am open to anything. Feel free to contact me about any inquiries or ideas!😊
 
-- ✈️ **Telegram** @Kat_logic  
-- ✈️ **Discord** cryptoking1106
+- ✈️ **Discord** cult3773
 🟢I typically respond within 2 hours and look forward to connecting with you.
 ---
 
