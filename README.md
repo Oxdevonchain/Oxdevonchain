@@ -1,25 +1,6 @@
 # 👋️ Welcome to my GitHub profile
 
 
-<div align="center">
-  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot">
-    <img src="https://img.shields.io/github/stars/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/fork">
-    <img src="https://img.shields.io/github/forks/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/issues">
-    <img src="https://img.shields.io/github/issues/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub Issues">
-  </a>
-  <a href="https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/hanshaze/solana-sniper-copy-mev-trading-bot?style=for-the-badge&logo=github" alt="GitHub License">
-  </a>
-</div>
-
-> **Check out the [solana-sniper-copy-mev-trading-bot](https://github.com/hanshaze/solana-sniper-copy-mev-trading-bot) repository for the latest updates and source code!**
-
-
-
 ## 🎯 About
 
 #### As a Fullstack developer, I've open-sourced this project because I believe in the power of community and collaboration. Whether you're a developer wanting to learn more about trading bots, a trader looking to automate your strategies, or simply curious about crypto trading, I hope this project provides value.
