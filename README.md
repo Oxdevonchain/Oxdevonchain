@@ -2,6 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Helle+everyone!;❤full+stack+and+Blockchain+engineer❤;+Passinate+and+Reliable+AI+Developer;" />
 </h1>
 
+<p align="center">
+  <img
+    src="https://cdn.svgator.com/images/2023/03/stopwatch-svg-animation.svg"
+    width="600"
+    alt="Animated terminal session"
+  />
+</p>
+
 
 ## 🎯 About
 
