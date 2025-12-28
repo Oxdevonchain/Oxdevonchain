@@ -91,16 +91,3 @@ If you need smart contract development, dapps, or front-end solutions, I can del
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" /><br>Linux</td>
   </tr>
 </table>
-
-
-## 🆘 Support
-If you have any questions about development or collaboration, I am open to anything. Feel free to contact me about any inquiries or ideas!😊
-
-- ✈️ **Discord** cult3773
-🟢I typically respond within 2 hours and look forward to connecting with you.
----
-
-### ⭐ If you find these projects helpful, please star 🌟 and watch 👀 the repo!
-
-#### Your feedback and stars motivate further development. Thank you!
-
