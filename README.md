@@ -13,9 +13,10 @@
 
 ## 🎯 About
 
-#### As a Fullstack developer, I've open-sourced this project because I believe in the power of community and collaboration. Whether you're a developer wanting to learn more about trading bots, a trader looking to automate your strategies, or simply curious about crypto trading, I hope this project provides value.
-
-#### By sharing the code, I invite others to build upon it, improve it, and perhaps even create something entirely new.
+#### I’m a full stack and blockchain developer with extensive experience across multiple blockchain networks, including EVM, Solana, Cosmos, Polkadot, Cardano and more.
+As a senior developer, I have a strong background in building smart contracts, dApps, and blockchain infrastructure using Solidity and Rust.
+In addition to my blockchain expertise, I specialize in front-end development using modern frameworks like React, Next.js, and TypeScript, creating responsive, user-friendly, and efficient web applications. 
+If you need smart contract development, dapps, or front-end solutions, I can deliver secure and scalable systems tailored to your needs.
 
 🟢I typically respond within 2 hours and look forward to connecting with you.
 
