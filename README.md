@@ -20,25 +20,6 @@ If you need smart contract development, dapps, or front-end solutions, I can del
 
 🟢I typically respond within 2 hours and look forward to connecting with you.
 
-### 🌟 Key Benefits
-
-- **Multi-Chain Support**: Trade across multiple blockchain networks
-- **AI-Powered Strategies**: Advanced trading algorithms and machine learning models
-- **Risk Management**: Built-in risk controls and portfolio management
-- **Real-time Monitoring**: Live tracking of trades and performance
-- **Customizable**: Easily adapt strategies to your trading style
-
-## ✨ Features
-
-- 🔄 **Automated Trading**: Set and forget trading strategies
-- 📊 **Portfolio Management**: Track and manage multiple assets
-- 🎯 **Strategy Backtesting**: Test strategies on historical data
-- 📈 **Performance Analytics**: Comprehensive trading performance metrics
-- 🔒 **Security First**: Secure API key management and encryption
-- 🌐 **Multi-Exchange**: Support for major cryptocurrency exchanges
-- 📱 **Web Dashboard**: Beautiful and intuitive user interface
-- 🔔 **Notifications**: Real-time alerts for trades and market events
-
 ## 🛠️ Tech Stack
 
 ### Blockchain, Web3 & CEX Integration
