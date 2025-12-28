@@ -1,4 +1,6 @@
-# 👋️ Welcome to my GitHub profile
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Helle+everyone!;❤full+stack+and+Blockchain+engineer❤;+Passinate+and+Reliable+AI+Developer;" />
+</h1>
 
 
 ## 🎯 About
